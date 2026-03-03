@@ -1,0 +1,7 @@
+.venv/
+data/
+img_for_presentation/
+.vscode/
+__pycache__/
+*.pyc
+models/*.pth
